@@ -1,0 +1,9 @@
+title: My Jekyll site
+description: >-
+  A simple Jekyll site for my GitHub Pages.
+theme: jekyll-theme-cayman
+plugins:
+  - jekyll-feed
+markdown: kramdown
+# baseurl: ""    # leave empty for user site; set to "/repo-name" for project pages if needed
+# url: "https://kanishka132.github.io"  # optional: set your production URL
